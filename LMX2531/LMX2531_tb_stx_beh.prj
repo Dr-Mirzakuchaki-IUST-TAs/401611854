@@ -1,0 +1,2 @@
+vhdl isim_temp "LMX2531.vhd"
+vhdl isim_temp "LMX2531_tb.vhd"
