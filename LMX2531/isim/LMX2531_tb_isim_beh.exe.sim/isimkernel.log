@@ -1,0 +1,10 @@
+Command line:
+   LMX2531_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1534
+
+Wed Jan 25 19:39:17 2023
+
+
+ Elaboration Time: 0.889205 sec
